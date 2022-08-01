@@ -3,6 +3,7 @@
 
 # In[1]:
 
+from IPython import get_ipython
 
 get_ipython().system('pip install streamlit')
 
