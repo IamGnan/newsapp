@@ -2,7 +2,7 @@
 # coding: utf-8
 
 # In[1]:
-
+import ipython
 from ipython import get_ipython
 
 get_ipython().system('pip install streamlit')
