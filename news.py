@@ -5,12 +5,13 @@
 
 from IPython import get_ipython
 
+pip install streamlit
 get_ipython().system('pip install streamlit')
 
 
 # In[2]:
 
-
+pip install transformers
 get_ipython().system('pip install transformers')
 
 
@@ -22,7 +23,7 @@ import json
 
 # In[12]:
 
-
+pip install newspaper3k
 get_ipython().system('pip install newspaper3k')
 
 
